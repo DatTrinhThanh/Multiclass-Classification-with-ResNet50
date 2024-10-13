@@ -1,0 +1,6 @@
+Bar Chart
+Class Diagram
+Flow Chart
+Line Chart
+Pie Chart
+Usecase Diagram
